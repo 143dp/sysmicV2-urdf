@@ -1,6 +1,6 @@
 # SYSMIC 2.0 – URDF
 
-URDF of the SYSMIC 2.0 hospitality serving robot, exported from the Fusion model `SYSMIC_V2_Master`.
+URDF of the SYSMIC 2.0 .
 
 ![SYSMIC 2.0 isometric view](images/sysmic_iso.png)
 
