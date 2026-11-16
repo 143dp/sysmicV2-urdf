@@ -2,6 +2,16 @@
 
 URDF of the SYSMIC 2.0 hospitality serving robot, exported from the Fusion model `SYSMIC_V2_Master`.
 
+![SYSMIC 2.0 isometric view](images/sysmic_iso.png)
+
+| Front | Side |
+|---|---|
+| ![Front](images/sysmic_front.png) | ![Side](images/sysmic_side.png) |
+
+![Top view: both arms over the tray](images/sysmic_top.png)
+
+Parts you can see: wheeled base with the tray on top, the tall lift column at the back, the torso with the camera on top, and two arms on either side.
+
 ## What's in it
 - Differential-drive base (2 drive wheels, 4 casters)
 - Rack-and-pinion lift (prismatic, 0 to 0.4477 m)
